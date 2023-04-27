@@ -19,6 +19,7 @@ return(
     borderRadius: '15px'
 }}/>
 <TransactionTable />
+<h4>FILL THIS TO LOG A NEW TRANSACTION IN</h4>
 <TransactionForm />
 
 </div>
